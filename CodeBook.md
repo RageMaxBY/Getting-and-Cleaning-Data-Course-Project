@@ -24,4 +24,4 @@ The script run_analysis.R performs the 5 steps described in the course project's
 
 * *all_data* merges *x_data*, *y_data* and *subject_data* in a big dataset.
 
-* *averages_data* contains the relevant averages which will be later stored in a .txt file.
+* *averages_data* contains the relevant averages which will be later stored in a *.txt* file.
